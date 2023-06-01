@@ -1,0 +1,7 @@
+config.json
+database.pkl
+tmp.jpg
+vendor/__pycache__
+*.log
+untitled*
+configcopy.json

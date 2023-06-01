@@ -1,0 +1,14 @@
+{
+  "bridges": [
+    {
+    "facebook_page": "<the name of your facebook page>",
+    "mastodon_access_token": "<your secret mastodon app token>",
+    "mastodon_api_base_url": "<base url of your mastodon instance>"
+    },
+    {
+    "facebook_page": "<the name of some other facebook page>",
+    "mastodon_access_token": "<some other secret mastodon app token>",
+    "mastodon_api_base_url": "<base url of the mastodon instance>"
+    }
+  ]
+}
